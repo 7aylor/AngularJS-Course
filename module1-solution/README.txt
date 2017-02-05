@@ -1,0 +1,1 @@
+Assignment 1 Solution for course Single Page Web Applications with AngularJS.
